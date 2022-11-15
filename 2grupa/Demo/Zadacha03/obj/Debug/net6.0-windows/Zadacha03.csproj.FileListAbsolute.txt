@@ -1,0 +1,17 @@
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\bin\Debug\net6.0-windows\Zadacha03.exe
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\bin\Debug\net6.0-windows\Zadacha03.deps.json
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\bin\Debug\net6.0-windows\Zadacha03.runtimeconfig.json
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\bin\Debug\net6.0-windows\Zadacha03.dll
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\bin\Debug\net6.0-windows\Zadacha03.pdb
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.csproj.AssemblyReference.cache
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.Form1.resources
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.csproj.GenerateResource.cache
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.AssemblyInfoInputs.cache
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.AssemblyInfo.cs
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.csproj.CoreCompileInputs.cache
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.dll
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\refint\Zadacha03.dll
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.pdb
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\Zadacha03.genruntimeconfig.cache
+F:\repos\2022-2023-11b\2grupa\Demo\Zadacha03\obj\Debug\net6.0-windows\ref\Zadacha03.dll
